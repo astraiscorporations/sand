@@ -1,0 +1,14 @@
+getlib("run")
+getlib("btm")
+func read(file) {
+    run(join("cat ", file))
+}
+
+func write(file, content) {
+    # I'm not sure if this works
+    run(join(join(join("printf '", content), "' > "), file))
+}
+
+func delete(file) {
+    run(join("rm ", file))
+}
