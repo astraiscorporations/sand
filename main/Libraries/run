@@ -1,1 +1,1 @@
-getlib("libcontent/run.main,py")
+getlib("libcontent/run.main.py")
