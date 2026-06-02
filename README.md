@@ -20,7 +20,7 @@ It is pre-bundled with **notateOS** and **notation**, and is designed for creati
 
 Download the latest release from the project's repository and follow the installation steps below.
 
-### Method 2: Clone the git repo that you are currently at right now because yes :3
+### Method 2: Clone the git repo that you are currently at right now
 
 ```bash
 git clone https://github.com/astraiscorporations/sand.git sand
@@ -47,6 +47,8 @@ You can now launch Sand with:
 sand
 ```
 
+Yay!
+
 ## Usage
 
 Sand can be used for:
@@ -59,5 +61,5 @@ Sand can be used for:
 
 ---
 
-*Sand is developed as part of the notateOS by Astrais Corporations.*
+*Sand is developed as part of notateOS by Astrais Corporations.*
 *Written by Kankavee Tarnprasant. :)*
